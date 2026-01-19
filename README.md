@@ -11,10 +11,11 @@ Currently mastering the **Go** ecosystem and modern **React** patterns.
 
 <p align="center">
   <a href="mailto:dmslmvsk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/dmslmvsk">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
   </a>
 </p>
 
