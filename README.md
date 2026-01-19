@@ -9,6 +9,9 @@ Currently mastering the **Go** ecosystem and modern **React** patterns.
 
 <br>
 
+---
+
+### 🔗 Contacts
 <p align="center">
   <a href="mailto:dmslmvsk@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
