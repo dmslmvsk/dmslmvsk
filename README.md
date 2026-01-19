@@ -13,7 +13,6 @@ Currently mastering the **Go** ecosystem and modern **React** patterns.
   <a href="mailto:dmslmvsk@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
   </a>
-  &nbsp;
   <a href="https://linkedin.com/in/dmslmvsk">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
   </a>
