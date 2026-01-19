@@ -17,7 +17,7 @@ Currently mastering the **Go** ecosystem and modern **React** patterns.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,react,ts,postgres,docker,tailwind,vite,linux,git&perline=9" />
+    <img src="https://skillicons.dev/icons?i=go,react,ts,py,html,css,postgres,docker,tailwind,vite,linux,git&perline=6" />
   </a>
 </p>
 
