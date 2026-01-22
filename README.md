@@ -2,10 +2,9 @@
 
 # Hi there, I'm Dmitry 👋
 
-### Full Stack Developer
+### 💻 Full Stack Developer
 
-I focus on building scalable web applications and clean software architecture.<br>
-Currently mastering the **Go** ecosystem and modern **React** patterns.
+🚀 I am actively expanding my skillset by building scalable Full Stack applications using **Go** and **React**.
 
 <br>
 
@@ -31,7 +30,7 @@ Currently mastering the **Go** ecosystem and modern **React** patterns.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,react,ts,py,html,css,postgres,docker,tailwind,vite,linux,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=go,ts,react,py,postgres,redis,rabbitmq,docker,linux,html,css,tailwind,vite,git&perline=7" />
   </a>
 </p>
 
