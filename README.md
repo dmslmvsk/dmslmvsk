@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dmslmvsk/dmslmvsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Dmitry 👋
 
-Here are some ideas to get you started:
+### 💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I am actively expanding my skillset by building Full Stack applications using **Go**, **Typescript** and **React**.
+
+<br>
+
+---
+
+### 🛠 Tech Stack
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,ts,express,prisma,react,py,postgres,redis,docker,html,css,tailwind,vite,git&perline=7" />
+  </a>
+</p>
+
+<br>
+
+---
+
+### 🔗 Contacts
+<p align="center">
+  <a href="mailto:dmslmvsk@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/dmslmvsk">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo" />
+  </a>
+</p>
+
+<br>
